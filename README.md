@@ -5,36 +5,22 @@ You can use the [editor on GitHub](https://github.com/StevenvanLeeuwen/Stevenvan
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Steven van Leeuwen
-<img src="github_profile.jpg" width="50" height="50">
+<img src="github_profile.jpg" width="200" height="300"> <br> <strong> Steven van Leeuwen </strong> <em> 41777 Grimmer Blvd Apt F3 Fremont, CA 94538 </em> | <em> +17606259802 </em> | <em> svanleeuwen93@gmail.com </em>
 
-### Markdown
+### Research and Projects
+#### Satellite Descent to Asteroid Surface with Sensor Modeling and 6dof Dynamics
+picture
+#### Reachability-Based Trajectory Design
+link to code and picture
+#### "The Intelligent Arm" Robot
+link to website and picture <img src="arm.jpg">
+#### Berkelely Autonomous Race Car (BARC)
+link to website and picture
+#### Comparison of Differnet Steering Control Strategies
+just description
+#### Mobile Gates for Congested Airports
+just description
+### Publications
+links
+### Awards
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/StevenvanLeeuwen/StevenvanLeeuwen.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
