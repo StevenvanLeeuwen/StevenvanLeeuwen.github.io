@@ -11,7 +11,8 @@ link to code and picture link to video (trajectory based)
 link to website
 <h4> Berkelely Autonomous Race Car (BARC) </h4>
 <img src="barc.jpg" width="250" height="200" />
-link to website
+1:10 scale RC car modification for autonomous drive. Codeveloped prototype vehicle- body assemblies, software
+code for actuators, IMU filtering, tire force model, documentation.[Link](https://barc-project.com)
 <h4> Comparison of Different Steering Control Strategies on Highway </h4>
 Development and comparison of a Sliding Mode and Model Predictive Controller for vehicle lane keeping and
 obstacle avoidance maneuvering in simulation while enrolled in honors undergraduate research.
