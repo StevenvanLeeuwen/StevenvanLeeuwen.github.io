@@ -1,4 +1,5 @@
-<h3> Steven van Leeuwen Project Page </h3>
+<h3> Steven van Leeuwen </h3> 
+Project Page <br>
 <img src="github_profile.jpg" width="200" height="300"> <br> <em> 41777 Grimmer Blvd Apt F3 Fremont, CA 94538 </em> | <em> +17606259802 </em> | <em> svanleeuwen93@gmail.com </em>
 
 <h3> Research and Projects </h3>
