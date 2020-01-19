@@ -5,7 +5,7 @@ You can use the [editor on GitHub](https://github.com/StevenvanLeeuwen/Stevenvan
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Steven van Leeuwen
-<img src="https://github_profile.jpg" width="50" height="50">
+<img src="github_profile.jpg" width="50" height="50">
 
 ### Markdown
 
