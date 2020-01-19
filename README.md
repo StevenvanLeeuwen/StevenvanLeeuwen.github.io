@@ -1,22 +1,21 @@
-### Steven van Leeuwen
+<h3> Steven van Leeuwen Project Page </h3>
 <img src="github_profile.jpg" width="200" height="300"> <br> <em> 41777 Grimmer Blvd Apt F3 Fremont, CA 94538 </em> | <em> +17606259802 </em> | <em> svanleeuwen93@gmail.com </em>
 
-### Research and Projects
-#### Satellite Descent to Asteroid Surface with Sensor Modeling and 6dof Dynamics
+<h3> Research and Projects </h3>
+<h4> Satellite Descent to Asteroid Surface with Sensor Modeling and 6dof Dynamics </h4>
 picture (trajectory based)
-#### Reachability-Based Trajectory Design
+<h4> Reachability-Based Trajectory Design </h4>
 link to code and picture (trajectory based)
-#### "The Intelligent Arm" Robot
-<img src="arm.jpg" width="400" height="200">
+<h4> "The Intelligent Arm" Robot </h4>
+<img src="arm.jpg" width="400" height="200" />
 link to website
-#### Berkelely Autonomous Race Car (BARC)
-<img src="barc.jpg" width="300" height="250">
+<h4> Berkelely Autonomous Race Car (BARC) </h4>
+<img src="barc.jpg" width="300" height="250" />
 link to website
-#### Comparison of Differnet Steering Control Strategies
+<h4> Comparison of Differnet Steering Control Strategies </h4>
 just description
-#### Mobile Gates for Congested Airports
+<h4>Mobile Gates for Congested Airports </h4>
 just description
-### Publications
+<h3> Publications </h3>
 links
-### Awards
 
