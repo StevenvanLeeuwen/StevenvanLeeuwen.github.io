@@ -2,7 +2,7 @@ Project Page <br> <br>
 <img src="github_profile.jpg" width="200" height="300"> <br> <em> +17606259802 </em> | <em> svanleeuwen93@gmail.com </em>
 
 <h3> Research and Projects </h3>
-<h4> Satellite Descent to Asteroid Surface with Sensor Modeling and 6dof Dynamics </h4>
+<h4> Satellite Near Asteroid Optimal Control </h4>
 picture (trajectory based)
 <h4> Reachability-Based Trajectory Design </h4>
 link to code and picture link to video (trajectory based)
