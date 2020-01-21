@@ -7,7 +7,7 @@ picture (trajectory based)
 <h4> Reachability-Based Trajectory Design </h4>
 link to code and picture link to video (trajectory based)
 <h4> "The Intelligent Arm" Robot </h4>
-<img src="arm.jpg" width="300" height="150" />
+<img src="arm.jpg" width="300" height="150" /> <br>
 Three-linkage mechanical arm with camera object tracking, conception to demo. Proportional feedback control. [Link](https://danielfmcms.wixsite.com/me102bintelligentarm)
 <h4> Berkelely Autonomous Race Car (BARC) </h4>
 <img src="barc.jpg" width="250" height="175" /> <br>
