@@ -5,7 +5,7 @@ Project Page <br> <br>
 <h4> Satellite Near Asteroid Optimal Control </h4>
 picture (trajectory based)
 <h4> Reachability-Based Trajectory Design </h4>
-link to code and picture link to video (trajectory based)
+link to video (trajectory based) Additional developments of a trajectory planning method with safety guarantees known as Reachability-based trajectory design. Implementation on 1:10 scale RC car, including low level controller design, SLAM, high level path planning. Investigation of fast online optimization techniques. [Code](https://github.com/ramvasudevan/roahm-rover)
 <h4> "The Intelligent Arm" Robot </h4>
 <img src="arm.jpg" width="300" height="150" /> <br>
 Three-linkage mechanical arm with camera object tracking, conception to demo. Proportional feedback control. [Link](https://danielfmcms.wixsite.com/me102bintelligentarm)
