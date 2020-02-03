@@ -5,7 +5,8 @@ Project Page <br> <br>
 <h4> Satellite Near Asteroid Optimal Control </h4>
 picture (trajectory based)MPC control of satellite descent and landing on an asteroid surface. Measurement model consisting of strapped-down camera, lidar, and surface feature markers. 6dof simulation and attitude/translation coupling. Treatment of uncertainty and constraints such as soft landing.
 <h4> Reachability-Based Trajectory Design </h4>
-link to video (trajectory based) Additional developments of a trajectory planning method with safety guarantees known as Reachability-based trajectory design. Implementation on 1:10 scale RC car, including low level controller design, SLAM, high level path planning. Processing of obstacles in the environment. Investigation of fast online optimization techniques. [Code](https://github.com/ramvasudevan/roahm-rover)
+<img src="RTD.png" width="250" height="175" /> <br>
+ Additional developments of a trajectory planning method with safety guarantees known as Reachability-based trajectory design. Implementation on 1:10 scale RC car, including low level controller design, SLAM, high level path planning. Processing of obstacles in the environment. Investigation of fast online optimization techniques. [Code](https://github.com/ramvasudevan/roahm-rover)
 <h4> "The Intelligent Arm" Robot </h4>
 <img src="arm.jpg" width="300" height="150" /> <br>
 Three-linkage mechanical arm with camera object tracking, conception to demo. Proportional feedback control. [Link](https://danielfmcms.wixsite.com/me102bintelligentarm)
