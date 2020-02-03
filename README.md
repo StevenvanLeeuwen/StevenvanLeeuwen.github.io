@@ -4,7 +4,7 @@ Project Page <br> <br>
 <h3> Research and Projects </h3>
 -- More recent --
 <h4> Satellite Near Asteroid Optimal Control </h4>
-<img src="asteroid.jpg" width="315" height="236" /> <br>
+<img src="asteroid.jpg" width="378" height="283" /> <br>
 Control of satellite descent and landing on an asteroid surface. Control techniques explored include MPC and reference signal governors/modulators. Creation of a measurement model emulating imu, strapped-down optical camera capturing surface feature markers, and lidar. Simulation consisiting of 6dof plant model and EKF. Treatment of uncertainty and constraints, including chance based constraints, in the controller scheme design. An important constraint for this asteroid/satellite setting is soft landing.
 <h4> Reachability-Based Trajectory Design </h4>
 <img src="RTD.png" width="206" height="274" /> <br>
