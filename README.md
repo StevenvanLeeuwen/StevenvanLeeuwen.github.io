@@ -4,7 +4,8 @@ Project Page <br> <br>
 <h3> Research and Projects </h3>
 -- More recent --
 <h4> Satellite Near Asteroid Optimal Control </h4>
-picture (trajectory based)Control of satellite descent and landing on an asteroid surface. Control techniques explored include MPC and reference signal governors/modulators. Creation of a measurement model emulating imu, strapped-down optical camera capturing surface feature markers, and lidar. Simulation consisiting of 6dof plant model and EKF. Treatment of uncertainty and constraints, including chance based constraints, in the controller scheme design. An important constraint for this asteroid/satellite setting is soft landing.
+<img src="asteroid.jpg" width="315" height="236" /> <br>
+Control of satellite descent and landing on an asteroid surface. Control techniques explored include MPC and reference signal governors/modulators. Creation of a measurement model emulating imu, strapped-down optical camera capturing surface feature markers, and lidar. Simulation consisiting of 6dof plant model and EKF. Treatment of uncertainty and constraints, including chance based constraints, in the controller scheme design. An important constraint for this asteroid/satellite setting is soft landing.
 <h4> Reachability-Based Trajectory Design </h4>
 <img src="RTD.png" width="206" height="274" /> <br>
 Additional developments of a trajectory planning method with safety guarantees known as Reachability-based trajectory design. Implementation on a 1:10 scale RC car, including low level controller design, SLAM, high level path planning in the online pipeline. Processing of obstacles in the environment as constraints in optimization. Investigation of numerical techniques and convex representations of obstacles and reachability sets to make online performance faster. [Code](https://github.com/ramvasudevan/roahm-rover) [Video]() <br> <br>
