@@ -1,4 +1,4 @@
-<img src="github_profile.jpg" width="200" height="300"> <br> <em> +17606259802 </em> | <em> svanleeuwen93@gmail.com </em>
+<img src="github_profile.jpg" width="200" height="300"> <br> <em> +17606259802 </em> <br> <em> svanleeuwen93@gmail.com </em>
 
 <h2> Research and Projects </h2>
 -- -- More recent -- --
