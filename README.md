@@ -1,4 +1,4 @@
-<img src="github_profile.jpg" width="200" height="300"> <br> <em> +17606259802 </em> <em> svanleeuwen93@gmail.com </em> <br>
+<img src="github_profile.jpg" width="200" height="300"> <br> <em> 17606259802 </em> <br> <em> svanleeuwen93@gmail.com </em> <br>
 You have landed on my project page. Broadly speaking, I am interested in control design of maneuvering vehicles. More specifically, I enjoy working on constrained control problems and using optimization techniques. I have interest in wheeled, drone, and spacecraft platforms.
 <h2> Research and Projects </h2>
 <h4> Spacecraft Near Asteroid Optimal Control </h4>
