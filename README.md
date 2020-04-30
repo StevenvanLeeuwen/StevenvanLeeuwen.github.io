@@ -20,5 +20,5 @@ Development and comparison of a Sliding Mode and Model Predictive Controller for
 obstacle avoidance maneuvering in simulation while enrolled in honors undergraduate research. <br> <br>
 <h4>Mobile Gates for Congested Airports </h4>
 Researched mobile gate design concept to improve airport efficiency with professor-led team. Devised movable and
-detachable jet bridge connections to terminal building. Project award in nationwide competition.
+detachable jet bridge connections to terminal building. Project award in nationwide competition. [Link] (https://airportdesign.berkeley.edu/education/student-awards)
 
