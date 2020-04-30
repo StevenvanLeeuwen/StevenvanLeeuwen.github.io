@@ -3,7 +3,7 @@
 <h2> Research and Projects </h2>
 <h4> Spacecraft Near Asteroid Optimal Control </h4>
 <img src="asteroid1.png" width="302" height="213" /> <br>
-Control of spacecraft descent and landing on an asteroid surface. The focus of this work is using MPC and convexification approaches to control of nonlinear stochastic dynamic systems and formulating this with estimation. Creation of a measurement model fusing imu, strapped-down optical camera capturing surface feature markers, and lidar sensors. Simulation consisiting of 6dof plant model and EKF. Exploration of reference modulators/governors and stochastic MPC, including chance-based constraints, in the controller scheme design. Examples of important constraints for this asteroid/spacecraft scenario are soft landing and field of view constraints. I have also worked on this spacecraft scenario with NMPC. [arXiv]()
+Control of spacecraft descent and landing on an asteroid surface. The focus of this work is using MPC and convexification approaches to control of nonlinear stochastic dynamic systems and formulating this with estimation. Creation of a measurement model fusing imu, strapped-down optical camera capturing surface feature markers, and lidar sensors. Simulation consisiting of 6dof plant model and EKF. Exploration of reference modulators/governors and stochastic MPC, including chance-based constraints, in the controller scheme design. Examples of important constraints for this asteroid/spacecraft scenario are soft landing and field of view constraints. I have also worked on this spacecraft scenario with NMPC. [arXiv]() <br> <br>
  -- -- -- Less recent -- -- --
 <h4> Reachability-Based Trajectory Design </h4>
 <img src="RTD.png" width="186" height="247" /> <br>
@@ -21,6 +21,4 @@ obstacle avoidance maneuvering in simulation while enrolled in honors undergradu
 <h4>Mobile Gates for Congested Airports </h4>
 Researched mobile gate design concept to improve airport efficiency with professor-led team. Devised movable and
 detachable jet bridge connections to terminal building. Project award in nationwide competition.
-<h2> Publications </h2>
-links
 
