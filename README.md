@@ -1,5 +1,5 @@
-<img src="github_profile.jpg" width="200" height="300"> <br> <em> 17606259802 </em> <br> <em> svanleeuwen93@gmail.com </em> <br>
-You have landed on my project page. My interests, broadly speaking, are in control design of maneuvering vehicles. More specifically, I enjoy working on and formulating constrained control problems and using optimization techniques. I have interest in wheeled, drone, and spacecraft platforms, especially the latter two.
+<img src="github_profile.jpg" width="200" height="300"> <br> <em> 17606259802 </em> <br> <em> svanlee@umich.edu </em> <br>
+Hello, you have landed on my project page. My interests, broadly speaking, are in control design of maneuvering vehicles. More specifically, I enjoy formulating constrained control problems and using optimization techniques. I have worked on wheeled, drone, and spacecraft platforms, and am currently interested in those with an aerospace flavor.
 <h2> Research and Projects </h2>
 <h4> Spacecraft Near Asteroid Optimal Control </h4>
 <img src="asteroid1.png" width="302" height="213" /> <br>
