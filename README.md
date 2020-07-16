@@ -3,7 +3,7 @@ Hello, you have landed on my project page. My interests, broadly speaking, are i
 <h2> Research and Projects </h2>
 <h4> Spacecraft Near Asteroid Optimal Control </h4>
 <div id="exp1">
-<img src="asteroid1.png" style="float: left" width="302" height="213" />
+<img src="asteroid1.png" style="float: left; padding-right: 2px; padding left: 2px" width="302" height="213" />
 <p> Control of spacecraft descent and landing on an orbiting asteroid surface. The focus of this work is using MPC and convexification approaches to control nonlinear stochastic dynamic systems and formulating this with estimation. Creation of a measurement model fusing imu, strapped-down optical camera capturing surface feature markers, and lidar sensors. Simulation consisiting of 6dof plant model and EKF. Exploration of reference modulators/governors and stochastic MPC, including chance-based constraints, in the controller scheme design. Examples of important constraints for this asteroid/spacecraft scenario are soft landing and field of view constraints. I have also worked on this asteroid/spacecraft scenario in a collaboration with a focus on NMPC and quaternion based estimation. Links to the non-NMPC work: <a href="https://arxiv.org/pdf/2005.03245.pdf">arXiv</a> <a href="https://github.com/StevenvanLeeuwen/asteroid_scvx">Code</a> </p>
  </div>
  -- -- -- Less recent -- -- --
