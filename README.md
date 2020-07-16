@@ -12,17 +12,20 @@ Hello, you have landed on my project page. My interests, broadly speaking, are i
 <img src="RTD.png" style="float: left; padding-right: 5px; padding left: 5px" width="186" height="247" />
 <p> Additional developments of a trajectory planning and control technique with safety guarantees known as Reachability-Based Trajectory Design. Implementation on a 1:10 scale RC car, including low level controller design, SLAM, and high level path planning in the online pipeline. Processing of obstacles in the environment as constraints in optimization. Investigation of numerical techniques to make online performance faster, along with software tuning for the hardware. <a href="https://github.com/ramvasudevan/roahm-rover">Code</a> </p>
 </div>
+<br>
 <h4> "The Intelligent Arm" Robot </h4>
 <div id="exp3">
 <img src="arm.jpg" width="300" height="150" style="float: left; padding-right: 5px; padding left: 5px"/> 
 <p> Three-linkage mechanical arm with camera object tracking, conception to demo. Proportional feedback control. <a href="https://danielfmcms.wixsite.com/me102bintelligentarm">Website</a>  </p>
  </div>
+ <br>
 <h4> Berkeley Autonomous Race Car (BARC) </h4>
 <div id="exp4">
 <img src="barc.jpg" width="250" height="175" style="float: left; padding-right: 5px; padding left: 5px"/> <br>
 <p> 1:10 scale RC car modification for autonomous drive. Codeveloped prototype vehicle- body assemblies, software
 code for actuators, IMU filtering, tire force model, documentation. <a href="https://barc-project.com">Website</a> </p>
  </div>
+ <br>
 <h4> Comparison of Different Steering Control Strategies on Highway </h4>
 Development and comparison of a Sliding Mode and MPC controller for vehicle lane keeping and
 obstacle avoidance maneuvering in simulation while enrolled in honors undergraduate research. <br> <br>
