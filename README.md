@@ -6,6 +6,7 @@ Hello, you have landed on my project page. My interests, broadly speaking, are i
 <img src="asteroid1.png" style="float: left; padding-right: 5px; padding left: 5px" width="302" height="213" />
 <p> Control of spacecraft descent and landing on an orbiting asteroid surface. The focus of this work is using MPC and convexification approaches to control nonlinear stochastic dynamic systems and formulating this with estimation. Creation of a measurement model fusing imu, strapped-down optical camera capturing surface feature markers, and lidar sensors. Simulation consisiting of 6dof plant model and EKF. Exploration of reference modulators/governors and stochastic MPC, including chance-based constraints, in the controller scheme design. Examples of important constraints for this asteroid/spacecraft scenario are soft landing and field of view constraints. I have also worked on this asteroid/spacecraft scenario in a collaboration with a focus on NMPC and quaternion based estimation. Links to the non-NMPC work: <a href="https://arxiv.org/pdf/2005.03245.pdf">arXiv</a> <a href="https://github.com/StevenvanLeeuwen/asteroid_scvx">Code</a> </p>
  </div>
+ <div style="clear:both;"></div>
  -- -- -- Less recent -- -- --
 <div id="exp2" width="100%">
 <h4> Reachability-Based Trajectory Design </h4>
@@ -25,6 +26,7 @@ Hello, you have landed on my project page. My interests, broadly speaking, are i
 <p> 1:10 scale RC car modification for autonomous drive. Codeveloped prototype vehicle- body assemblies, software
 code for actuators, IMU filtering, tire force model, documentation. <a href="https://barc-project.com">Website</a> </p>
 </div>
+<div style="clear:both;"></div>
 <h4> Comparison of Different Steering Control Strategies on Highway </h4>
 Development and comparison of a Sliding Mode and MPC controller for vehicle lane keeping and
 obstacle avoidance maneuvering in simulation while enrolled in honors undergraduate research. <br> <br>
