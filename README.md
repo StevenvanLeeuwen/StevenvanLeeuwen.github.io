@@ -1,7 +1,7 @@
 <img src="github_profile.jpg" width="200" height="300"> <br> <em> 17606259802 </em> <br> <em> svanlee@umich.edu </em> <br>
 I'm Steven van Leeuwen, you have landed on my project page. My interests, broadly speaking, are in control design of maneuvering vehicles. More specifically, I enjoy formulating control laws for input and output constrained systems. Within this context I enjoy using optimization techniques and addressing real-time implementation. I have worked on wheeled, drone, and spacecraft platforms, and am currently interested in those with an aerospace flavor.
 <h2> Research and Projects </h2>
-<div id="exp1">
+<div id="exp1" width="100%">
 <h4> Spacecraft Near Asteroid Optimal Control </h4>
 <img src="asteroid1.png" style="float: left; padding-right: 10px; padding left: 10px" width="302" height="213" />
 <p> Control of spacecraft descent and landing on an orbiting asteroid surface. The focus of this work is using MPC and convexification approaches to control nonlinear stochastic dynamic systems and formulating this with estimation. Creation of a measurement model fusing imu, strapped-down optical camera capturing surface feature markers, and lidar sensors. Simulation consisiting of 6dof plant model and EKF. Exploration of reference modulators/governors and stochastic MPC, including chance-based constraints, in the controller scheme design. Examples of important constraints for this asteroid/spacecraft scenario are soft landing and field of view constraints. I have also worked on this asteroid/spacecraft scenario in a collaboration with a focus on NMPC and quaternion based estimation. Links to the non-NMPC work: <a href="https://arxiv.org/pdf/2005.03245.pdf">arXiv</a> <a href="https://github.com/StevenvanLeeuwen/asteroid_scvx">Code</a> </p>
