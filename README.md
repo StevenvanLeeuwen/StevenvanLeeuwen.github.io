@@ -7,7 +7,6 @@ I'm Steven van Leeuwen, you have landed on my project page. My interests, broadl
 <p> Control of spacecraft descent and landing on an orbiting asteroid surface. The focus of this work is using MPC and convexification approaches to control nonlinear stochastic dynamic systems and formulating this with estimation. Creation of a measurement model fusing imu, strapped-down optical camera capturing surface feature markers, and lidar sensors. Simulation consisiting of 6dof plant model and EKF. Exploration of reference modulators/governors and stochastic MPC, including chance-based constraints, in the controller scheme design. Examples of important constraints for this asteroid/spacecraft scenario are soft landing and field of view constraints. I have also worked on this asteroid/spacecraft scenario in a collaboration with a focus on NMPC and quaternion based estimation. Links to the non-NMPC work: <a href="https://arxiv.org/pdf/2005.03245.pdf">arXiv</a> <a href="https://github.com/StevenvanLeeuwen/asteroid_scvx">Code</a> </p>
  </div>
  <div style="clear:both;"></div> <br>
- -- -- -- Less recent -- -- --
 <div id="exp2" width="100%">
 <h4> Reachability-Based Trajectory Design </h4>
 <img src="RTD.png" style="float: left; padding-right: 10px; padding left: 10px" width="186" height="247" />
@@ -33,4 +32,8 @@ obstacle avoidance maneuvering in simulation while enrolled in honors undergradu
 <h4>Mobile Gates for Congested Airports </h4>
 Researched mobile gate design concept to improve airport efficiency with professor-led team. Devised movable and
 detachable jet bridge connections to terminal building. Project award in nationwide competition. [Award Announcement](https://airportdesign.berkeley.edu/education/student-awards)
+<h2> Publications </h2>
+<h4> Conference </h4>
+S van Leeuwen, “A Chance Constraint Predictive Control and Estimation Framework for Spacecraft Descent with Field
+of View Constraints” <em> AIAA Scitech Forum </em>, 2021 (to appear)
 
