@@ -35,5 +35,7 @@ detachable jet bridge connections to terminal building. Project award in nationw
 <h2> Publications </h2>
 <h4> Conference </h4>
 S van Leeuwen, “A Chance Constraint Predictive Control and Estimation Framework for Spacecraft Descent with Field
-of View Constraints” <em> AIAA Scitech Forum </em>, 2021 (to appear)
+of View Constraints” <em> AIAA Scitech Forum </em> 2021
+<h4> In Progress </h4>
+S van Leeuwen, T Skibik, D Liao-McPherson, M Nicotra, I Kolmanovsky, "Predictive Control Strategies for Landing on an Asteroid"
 
