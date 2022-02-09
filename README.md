@@ -4,7 +4,7 @@ I'm Steven van Leeuwen, you have landed on my project page. My interests, broadl
 <div id="exp1" width="100%">
 <h4> Spacecraft Near Asteroid Optimal Control </h4>
 <img src="asteroid1.png" style="float: left; padding-right: 10px; padding left: 10px" width="302" height="213" />
-<p> Control of spacecraft descent and landing on an orbiting asteroid surface. The focus of this work is using MPC and convexification approaches to control nonlinear stochastic dynamic systems and formulating this with estimation. Creation of a measurement model fusing imu, strapped-down optical camera capturing surface feature markers, and lidar sensors. Simulation consisiting of 6dof plant model and EKF. Exploration of reference modulators/governors and stochastic MPC, including chance-based constraints, in the controller scheme design. Examples of important constraints for this asteroid/spacecraft scenario are soft landing and field of view constraints. I have also worked on this asteroid/spacecraft scenario in a collaboration with a focus on NMPC and quaternion based estimation. Links to the non-NMPC work: <a href="https://github.com/StevenvanLeeuwen/asteroid_scvx">Code</a> </p>
+<p> Control of spacecraft descent and landing on an orbiting asteroid surface. The focus of this work is using MPC and convexification approaches to control nonlinear stochastic dynamic systems and formulating this with estimation. Creation of a measurement model fusing imu, strapped-down optical camera capturing surface feature markers, and lidar sensors. Simulation consisiting of 6dof plant model and EKF. Exploration of reference modulators/governors and stochastic MPC, including chance-based constraints, in the controller scheme design. Examples of important constraints for this asteroid/spacecraft scenario are soft landing and field of view constraints. I have also worked on this asteroid/spacecraft scenario in a collaboration with a focus on NMPC and quaternions. Links to the non-NMPC work: <a href="https://github.com/StevenvanLeeuwen/asteroid_scvx">Code</a> </p>
  </div>
  <div style="clear:both;"></div> <br>
 <div id="exp2" width="100%">
@@ -23,7 +23,7 @@ I'm Steven van Leeuwen, you have landed on my project page. My interests, broadl
 <h4> Berkeley Autonomous Race Car (BARC) </h4>
 <img src="barc.jpg" width="250" height="175" style="float: left; padding-right: 10px; padding left: 10px"/>
 <p> 1:10 scale RC car modification for autonomous driving. Codeveloped prototype vehicle- body assemblies, software
-code for actuators, IMU filtering, tire force model, documentation. <a href="https://barc-project.com">Website</a> </p>
+code for actuators, IMU filtering, tire force model, documentation. </p>
 </div>
 <div style="clear:both;"></div> <br>
 <h4> Comparison of Different Steering Control Strategies on Highway </h4>
@@ -36,6 +36,6 @@ detachable jet bridge connections to terminal building. Project award in nationw
 <h4> Conference </h4>
 S van Leeuwen, “A Chance Constraint Predictive Control and Estimation Framework for Spacecraft Descent with Field
 of View Constraints” <em> AIAA Scitech Forum </em> 2021
-<h4> In Progress </h4>
-S van Leeuwen, T Skibik, D Liao-McPherson, M Nicotra, I Kolmanovsky, "Nonlinear Predictive Control Strategies for Landing on an Asteroid"
+<br/><br/>
+S van Leeuwen, T Skibik, D Liao-McPherson, M Nicotra, I Kolmanovsky, "A Nonlinear Predictive Control Strategy for Landing on an Asteroid" <em> ACC </em> 2022
 
