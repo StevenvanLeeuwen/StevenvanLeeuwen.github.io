@@ -1,4 +1,4 @@
-<img src="github_profile.jpg" width="200" height="300"> <br> <em> 17606259802 </em> <br> <em> svanlee@umich.edu </em> <br>
+<img src="github_profile.jpg" width="200" height="300"> <br> <em> Last updated 2021 </em> <br> <em> svanlee@umich.edu </em> <br>
 I'm Steven van Leeuwen, you have landed on my project page. My interests, broadly speaking, are in control design of maneuvering vehicles. More specifically, I enjoy formulating control laws for input and output constrained systems. Within this context I enjoy using optimization techniques and addressing real-time implementation. I have worked on wheeled, drone, and spacecraft platforms, and am currently interested in those with an aerospace flavor.
 <h2> Research and Projects </h2>
 <div id="exp1" width="100%">
