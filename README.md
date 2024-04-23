@@ -1,4 +1,4 @@
-<img src="github_profile.jpg" width="200" height="300"> <br> <em> Last updated 2021 </em> <br> <em> svanlee@umich.edu </em> <br>
+<img src="github_profile.jpg" width="200" height="300"> <br> <em> svanlee@umich.edu </em> <br>
 I'm Steven van Leeuwen, you have landed on my project page. My interests, broadly speaking, are in control design of maneuvering vehicles. More specifically, I enjoy formulating control laws for input and output constrained systems. Within this context I enjoy using optimization techniques and addressing real-time implementation. I have worked on wheeled, drone, and spacecraft platforms, and am currently interested in those with an aerospace flavor.
 <h2> Research and Projects </h2>
 <div id="exp1" width="100%">
@@ -34,8 +34,10 @@ Researched mobile gate design concept to improve airport efficiency with profess
 detachable jet bridge connections to terminal building. Project award in nationwide competition. [Award Announcement](https://airportdesign.berkeley.edu/education/student-awards)
 <h2> Publications </h2>
 <h4> Conference </h4>
-S van Leeuwen, “A Chance Constraint Predictive Control and Estimation Framework for Spacecraft Descent with Field
+<b>S van Leeuwen</b>, “A Chance Constraint Predictive Control and Estimation Framework for Spacecraft Descent with Field
 of View Constraints” <em> AIAA Scitech Forum </em> 2021
 <br/><br/>
-S van Leeuwen, T Skibik, D Liao-McPherson, M Nicotra, I Kolmanovsky, "A Nonlinear Predictive Control Strategy for Landing on an Asteroid" <em> ACC </em> 2022
+<b>S van Leeuwen</b>, T Skibik, D Liao-McPherson, M Nicotra, I Kolmanovsky, "A Nonlinear Predictive Control Strategy for Landing on an Asteroid" <em> ACC </em> 2022
+<br/><br/>
+<b>S van Leeuwen</b>, I Komanovsky, "A Computation Governor for ADMM-based MPC with Constraint Satisfaction and Setpoint Tracking" <em> ACC </em> 2024
 
