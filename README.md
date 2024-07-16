@@ -34,10 +34,10 @@ Researched mobile gate design concept to improve airport efficiency with profess
 detachable jet bridge connections to terminal building. Project award in nationwide competition. [Award Announcement](https://airportdesign.berkeley.edu/education/student-awards)
 <h2> Publications </h2>
 <h4> Conference </h4>
-<b>S van Leeuwen</b>, “A Chance Constraint Predictive Control and Estimation Framework for Spacecraft Descent with Field
-of View Constraints” <em> AIAA Scitech Forum </em> 2021
+<b>S. van Leeuwen</b>, “A Chance Constraint Predictive Control and Estimation Framework for Spacecraft Descent with Field
+of View Constraints” AIAA 2021-1219 <em> AIAA Scitech 2021 Forum. </em> 2021  
 <br/><br/>
-<b>S van Leeuwen</b>, T Skibik, D Liao-McPherson, M Nicotra, I Kolmanovsky, "A Nonlinear Predictive Control Strategy for Landing on an Asteroid" <em> ACC </em> 2022
+<b>S. van Leeuwen</b>, T. Skibik, M. Nicotra, I. Kolmanovsky, and D. Liao-McPherson "A Nonlinear Predictive Control Strategy for Landing on an Asteroid" <em> 2022 American Control Conference (ACC). </em> Atlanta, GA, USA, 2022, pp. 443-449
 <br/><br/>
-<b>S van Leeuwen</b>, I Komanovsky, "A Computation Governor for ADMM-based MPC with Constraint Satisfaction and Setpoint Tracking" <em> ACC </em> 2024
+<b>S. van Leeuwen</b>, and I. Kolmanovsky, "A Computation Governor for ADMM-based MPC with Constraint Satisfaction and Setpoint Tracking" <em> 2024 American Control Conference (ACC). </em> Toronto, ON, CA, 2024
 
